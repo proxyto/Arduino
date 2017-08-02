@@ -1,8 +1,7 @@
     /*
     * Arduino Security and Alarm System
     *
-    * by Dejan Nedelkovski,
-    * www.HowToMechatronics.com
+    * 
     *
     */
     #include <LiquidCrystal.h> // includes the LiquidCrystal Library 
